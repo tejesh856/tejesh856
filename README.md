@@ -1,4 +1,4 @@
-<img src="[https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966](https://trisya.com/myimg/child/Website%20Design.gif)">
+<img src="https://trisya.com/myimg/child/Website%20Design.gif">
 <h1 align="center">Hi 👋, I'm Tejesh Reddy</h1>
 <h3 align="center">I have started my Coding journey 3 years back. My passion is Creating and Building Websites using different Web Technologies.</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
