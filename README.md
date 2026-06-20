@@ -1,5 +1,5 @@
 <img src="https://trisya.com/myimg/child/Website%20Design.gif">
-<h1>Hi 👋, I'm Tejesh Reddy</h1>
+<h1 align="center">Hi 👋, I'm Tejesh Reddy</h1>
 
 ### Full Stack Developer | MERN Stack Developer
 
