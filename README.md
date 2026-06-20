@@ -1,5 +1,5 @@
 <img src="https://trisya.com/myimg/child/Website%20Design.gif">
-# Hi 👋, I'm Tejesh Reddy
+<h1>Hi 👋, I'm Tejesh Reddy</h1>
 
 ### Full Stack Developer | MERN Stack Developer | React Native Developer
 
@@ -107,16 +107,16 @@ A real-time chat application supporting text/image sharing, JWT authentication, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejesh856\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejesh856\&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+* GitHub: https://github.com/tejesh856
+* LinkedIn: https://linkedin.com/in/tejesh-reddy-b3926a296/
 * Email: [tejeshvit007@gmail.com](mailto:tejeshvit007@gmail.com)
 
 ---
