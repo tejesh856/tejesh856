@@ -1,7 +1,7 @@
 <img src="https://trisya.com/myimg/child/Website%20Design.gif">
 <h1>Hi 👋, I'm Tejesh Reddy</h1>
 
-### Full Stack Developer | MERN Stack Developer | React Native Developer
+### Full Stack Developer | MERN Stack Developer
 
 💻 Passionate about building scalable web and mobile applications that solve real-world problems.
 
@@ -115,7 +115,6 @@ A real-time chat application supporting text/image sharing, JWT authentication, 
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/tejesh856
 * LinkedIn: https://linkedin.com/in/tejesh-reddy-b3926a296/
 * Email: [tejeshvit007@gmail.com](mailto:tejeshvit007@gmail.com)
 
